@@ -4,6 +4,6 @@
 
 ## 2. Create the code file
 1. Open a text editor or development environment (IDE) such as Visual Studio Code.
-2. Type the following code into a file called 'hola_mundo.py':
+2. Type the following code into a file called 'Hola.py':
 '''python
 print("Hola, Mundo!")
